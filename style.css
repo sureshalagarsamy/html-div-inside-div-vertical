@@ -1,0 +1,17 @@
+div.parent {
+    display: table-cell;
+    width: 200px;
+    height: 200px;
+    background: #FFF;
+    vertical-align: middle;
+    text-align: center;
+    border: 1px solid #BBB;
+}
+
+div.child {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    background: #DDD;
+    border: 1px solid #999;
+}
