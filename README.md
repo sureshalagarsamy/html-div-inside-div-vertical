@@ -1,5 +1,7 @@
 # Div inside div horizontally center
 
+### HTML
+
 ```html
 <!DOCTYPE html>
 <html>
@@ -16,6 +18,8 @@
 
 </html>
 ```
+
+### CSS
 
 ```css
 div.parent {
