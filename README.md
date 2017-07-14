@@ -1,4 +1,4 @@
-# Div inside div horizontally center
+# Div inside div vertically center
 
 ### HTML
 
